@@ -6,11 +6,11 @@ Esta es una calculadora simple desarrollada en React Native con TypeScript y est
 
 ## Capturas de Pantalla
 
-<img src="./screenshots/light_mode.png" width=30%>
 *Tema claro 🌞*
+<img src="./screenshots/light_mode.png" width=30%>
 
-<img src="./screenshots/dark_mode.png" width=30%>
 *Tema oscuro 🌚*
+<img src="./screenshots/dark_mode.png" width=30%>
 
 ## Características
 
