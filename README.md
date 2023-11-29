@@ -6,11 +6,12 @@ Esta es una calculadora simple desarrollada en React Native con TypeScript y est
 
 ## Capturas de Pantalla
 
+<div style="display: flex; flex-direction: 'row';">
 🌞
 <img src="./screenshots/LIGHT_MODE.PNG" width=30%>
-
 🌚
 <img src="./screenshots/DARK_MODE.PNG" width=30%>
+</div>
 
 ## Características
 
