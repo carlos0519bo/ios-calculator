@@ -6,10 +6,10 @@ Esta es una calculadora simple desarrollada en React Native con TypeScript y est
 
 ## Capturas de Pantalla
 
-![Captura de pantalla 1](./screenshots/LIGHT_MODE.png)
+![Captura de pantalla 1](./screenshots/light_mode.png)
 *Tema claro 🌞*
 
-![Captura de pantalla 2](./screenshots/DARK_MODE.png)
+![Captura de pantalla 2](./screenshots/dark_mode.png)
 *Tema oscuro 🌚*
 
 ## Características
@@ -22,8 +22,8 @@ Esta es una calculadora simple desarrollada en React Native con TypeScript y est
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tuusuario/tucalculadora.git`
-2. Navega al directorio del proyecto: `cd tucalculadora`
+1. Clona el repositorio: `git clone https://github.com/carlos0519bo/ios-calculator.git`
+2. Navega al directorio del proyecto: `cd ios-calculator`
 3. Instala las dependencias: `yarn install`
 4. Inicia la aplicación: `yarn ios`
 
