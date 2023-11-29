@@ -1,20 +1,21 @@
+import { useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView, StyleSheet } from 'react-native';
+import { HomeScreen } from './app/screens/HomeScreen';
+import { lightTheme, darkTheme } from './app/theme';
+import { ThemeProvider, useTheme } from './app/context';
 
 export default function App() {
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <ThemeProvider>
+        <HomeScreen />
+    </ThemeProvider>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
   },
 });
